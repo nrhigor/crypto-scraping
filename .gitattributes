@@ -1,0 +1,2 @@
+/files/chrome-for-testing/chrome.dll filter=lfs diff=lfs merge=lfs -text
+files/chrome-for-testing/chrome.dll filter=lfs diff=lfs merge=lfs -text
